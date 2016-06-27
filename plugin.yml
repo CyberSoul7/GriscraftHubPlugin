@@ -1,0 +1,7 @@
+name: HubPlugin
+version: 1.0
+main: me.cybersoul.HubPlugin
+commands:
+  main:
+    description: Tests if the plugin is working!
+    usage: /<command>
